@@ -1,4 +1,5 @@
 ZAD 1
+
 1.A. 
     
     W przypadku klas abstrakcyjnych gdzie kilka klas dziedziczy po niej, łatwiej jest dodać kolejną metodę, ponieważ wszystkie
@@ -21,6 +22,7 @@ ZAD 1
     Notacja O szybkości operacji dodawania oraz odejmowania to O(1), odczyt danych to O(n). 
 
 ZAD 2 
-W tym przypadku wybrałem metodę wyszukiwania binarnego.
-Złożoność obliczeniowa tego sposobu to O(logn), a pamięciowa O(1).
+
+    W tym przypadku wybrałem metodę wyszukiwania binarnego.
+    Złożoność obliczeniowa tego sposobu to O(logn), a pamięciowa O(1).
 

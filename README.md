@@ -1,5 +1,6 @@
 ZAD 1
 1.A. 
+    
     W przypadku klas abstrakcyjnych gdzie kilka klas dziedziczy po niej, łatwiej jest dodać kolejną metodę, ponieważ wszystkie
     klasy dziedziczące już będą ją posiadały. Zatem wystarczy określić działanie metody tylko w jednym miejscu zamiast w wielu.
 
@@ -7,6 +8,7 @@ ZAD 1
     każda klasa może mieć różne zastosowanie danej metody.
 
 1.B. 
+    
     Tablice są z góry określone jeżeli chodzi o ich rozmiar. Są umieszczone w pamięci jako całe bloki, co sprawia, że znacznie
     gorzej dodaje się i usuwa z niej dane. Bardzo sprawnie za to działa odczyt danych. Notacja O szybkości operacji
     dodawania oraz usuwania wynosi O(n) za to odczyt to O(1).
